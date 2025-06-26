@@ -1,0 +1,10 @@
+name: tag-viewer-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.9
+  - notebook
+  - ipykernel
+  - ipython
+  - ipywidgets>=7.6
